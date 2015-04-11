@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESImplementation.ConsoleTest", "AESImplementation\AESImplementation.ConsoleTest.csproj", "{29074760-1D1F-4F96-A463-CCF1734A64F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AESImplementation.Core", "AESImplementation.Core\AESImplementation.Core.csproj", "{BB03FE2F-2285-4E86-94BE-080E54075FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29074760-1D1F-4F96-A463-CCF1734A64F6}.Debug|x86.ActiveCfg = Debug|x86
+		{29074760-1D1F-4F96-A463-CCF1734A64F6}.Debug|x86.Build.0 = Debug|x86
+		{29074760-1D1F-4F96-A463-CCF1734A64F6}.Release|x86.ActiveCfg = Release|x86
+		{29074760-1D1F-4F96-A463-CCF1734A64F6}.Release|x86.Build.0 = Release|x86
+		{BB03FE2F-2285-4E86-94BE-080E54075FB0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BB03FE2F-2285-4E86-94BE-080E54075FB0}.Debug|x86.Build.0 = Debug|Any CPU
+		{BB03FE2F-2285-4E86-94BE-080E54075FB0}.Release|x86.ActiveCfg = Release|Any CPU
+		{BB03FE2F-2285-4E86-94BE-080E54075FB0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
